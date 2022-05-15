@@ -1,0 +1,6 @@
+.portal-pointer{
+    cursor: pointer !important;
+} 
+.portal-pointer:hover{
+    background: #fafafa !important;
+}   

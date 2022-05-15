@@ -1,0 +1,7 @@
+coco:
+  db:
+    hostname: hostname
+    port: port
+    username: username
+    password: password
+    db_name: db_name
